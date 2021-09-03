@@ -1,0 +1,16 @@
+body{
+      background-color: rgb(67, 145, 144);
+}
+.input{
+background-color: white;
+border-radius: 5px;
+
+
+}
+
+.submit{
+background-color: violet;
+width: 90px;
+border-radius: 3px;
+
+}
